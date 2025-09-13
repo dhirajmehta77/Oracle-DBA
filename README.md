@@ -1,2 +1,1 @@
-# Oracle-DBA
-Oracle dba practice
+# Oracle-dba-learning
