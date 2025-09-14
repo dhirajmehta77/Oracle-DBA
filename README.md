@@ -1,5 +1,4 @@
-<img src=<img width="1024" height="1024" alt="logo png" src="https://github.com/user-attachments/assets/bcee4102-549c-4e86-a145-da6a93868d55" />
-align="left" alt="Oracle DBA Logo"> # Oracle-dba-learning
+# Oracle-dba-learning
 
 ![Linux](https://img.shields.io/badge/Linux-Server-black?logo=linux&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Database-red?logo=oracle&logoColor=white)
